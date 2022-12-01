@@ -10,3 +10,20 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.encendido{
+    box-shadow: 2px 2px 2px 3px yellow;
+}
+
+.rojo{
+    background-color: red;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.green{
+    background-color: green;
+    
+}
